@@ -5,6 +5,10 @@
 Выполните push локальной ветки main в новые репозитории.  
 
 ## Решение:  
+Ссылки на репозитарии:  
+[github](https://github.com/goosecompote/devops-netology)
+[gitlab](https://gitlab.com/goosecompote/devops-netology)
+
 Результат команды git remote -v:  
 ![скриншот задание 1](/pic/zadanie1.png)    
 
